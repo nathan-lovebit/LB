@@ -1,0 +1,5 @@
+npx hardhat airdrop --network testnet --csv recipients/test.csv
+
+npx hardhat airdrop --network mainnet --csv recipients/valid-1101-1700.csv
+
+npx hardhat airdrop --network quicknode --csv recipients/valid-1701-2200.csv
